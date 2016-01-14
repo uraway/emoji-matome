@@ -1,3 +1,4 @@
+# コミットメッセージの先頭に使う絵文字(Emoji)まとめ
 
 例えば、バグを修正したというコミットメッセージだけでも、チームや人によって"fix bug", "bug fixed", "fixed bug", "bug fix"など、さまざまな可能性がある。そこで、それぞれのコミットに対応した絵文字(Emoji)を使うことで、一目見ただけでコミットの種類をわかりやすく伝えることができる。 😄
 
@@ -34,3 +35,5 @@ CIビルドの修正| 💚 `:green_heart:`
 
 ## 絵文字を自動補完してgit commit
 基本的に絵文字を手打ちするのは面倒だが、Atomを使用している場合は、[git-plus](https://atom.io/packages/git-plus)と[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)を併用すると楽。
+
+![](https://zippy.gfycat.com/VigilantHarmfulKestrel.gif)
