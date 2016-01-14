@@ -32,4 +32,4 @@ CIビルドの修正| 💚 `:green_heart:`
 その他 | [絵文字チートシート](http://www.emoji-cheat-sheet.com/)
 
 ## 絵文字を自動補完してgit commit
-基本的に絵文字を手打ちするのは面倒。そこで、Atomを使用している場合は、[git-plus](https://atom.io/packages/git-plus)と[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)を併用すると楽。
+基本的に絵文字を手打ちするのは面倒だが、Atomを使用している場合は、[git-plus](https://atom.io/packages/git-plus)と[autocomplete-emojis](https://atom.io/packages/autocomplete-emojis)を併用すると楽。
